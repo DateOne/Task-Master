@@ -17,3 +17,7 @@ hyperparamters.
 A: The optimal hyper-parameter is simple, that can emphasize certain little distributions yet the overall distribution can't be neglected.
 So we might still need training. Over fitting on certain tasks? This might be inaccurate. So I'm gonna say, instead of overfitting, I say it dispatched interference. Are you talking about 
 doing something on the dataloader part? That could be an idea.
+
+
+experiment 1: see the power of temperature
+experiment 2: explore other hyperparameters (better relates to little distributions)
